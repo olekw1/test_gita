@@ -1,1 +1,3 @@
 to jest zawartosc pliku test2
+
+tutaj dodałem zawartość lini numer 2
