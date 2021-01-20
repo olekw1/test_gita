@@ -4,9 +4,7 @@ bbb
 ccc
 ----------------
 
-bbaabbabd
-basbsbfbs
-bsbbsbsbsdbs
+
 -----------------------
 fdsfdsadsf
 adsffaddsf
@@ -17,3 +15,5 @@ fds
 dsf
 ---------------------
 tutaj też ja dodałem
+------------------
+wwwwwwwwww
