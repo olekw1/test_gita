@@ -1,5 +1,8 @@
-to jest zawartosc pliku test2
+﻿to jest zawartosc pliku test2
 
 tutaj dodałem zawartość lini numer 2
 
 To ja tuatj dodałem
+
+to ja dodałem na czarnym samsungu
+
